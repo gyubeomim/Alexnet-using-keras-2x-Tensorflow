@@ -2,7 +2,7 @@
 
 
 **I haven't tested it enough, then PLEASE use it carefully.**  
-**I wrote this code. cause there is no AlexNet code written by Keras 2.1.2 (Tensorflow)** 
+**I wrote this code cause there was no AlexNet code written by using Keras 2.1.2 (Tensorflow)** 
 
 
 <br />
