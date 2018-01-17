@@ -1,5 +1,5 @@
 # Using Keras 2.1.2 (180116)
-# haven't tested enough. PLEASE use it carefully because I just wrote code in 5 minutes :-)
+# haven't tested enough. PLEASE use it carefully because I just wrote this code in 5 minutes :-)
 
 from keras.models import Sequential
 from keras.layers.core import Dense, Dropout, Activation, Flatten
